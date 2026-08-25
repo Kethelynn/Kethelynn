@@ -15,7 +15,7 @@ Me chamo Kethely ALves, tenho 22 anos e sou de São Paulo interior. Atualmente, 
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="(https://github-stats-extended.vercel.app/api?username=Kethelynn)](https://github.com/stats-organization/github-stats-extended)" 
 />
 <img 
     align="left" 
@@ -70,15 +70,14 @@ Me chamo Kethely ALves, tenho 22 anos e sou de São Paulo interior. Atualmente, 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-stats-extended.vercel.app/api?username=Kethelynn&custom_title=GitHub%20Statics&show_icons=true&include_all_commits=true&theme=tokyonight)" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<img
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=7&hide_values=true&theme=tokyonight"
   />
 
 </p>
-
