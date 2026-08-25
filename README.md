@@ -77,7 +77,7 @@ Me chamo Kethely ALves, tenho 22 anos e sou de São Paulo interior. Atualmente, 
      align="left" 
      alt="GitHub Stats" 
      height="200" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kethelynn         theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kethelynn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
  />
  
 </p>
