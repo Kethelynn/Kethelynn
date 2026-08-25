@@ -10,6 +10,6 @@ Me chamo Kethely ALves, tenho 22 anos e sou de São Paulo interior. Atualmente, 
         <img 
             alt="Linkedin" 
             title="Me siga no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/linkedin/KethelAlves?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
