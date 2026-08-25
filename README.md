@@ -1,22 +1,15 @@
-## Bem-vindo(a) ao meu perfil 😁
-
- <div>
-   <a href="https://github.com/Kethelynn">
-  
-
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+ # 👩🏻‍💻 Kethely ALves
  
- <br>
- 
-<div> 
-  <a href = "mailto:kethely123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Kethely-alves-61232b196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Kethelynn/Kethelynn/blob/output/github-contribution-grid-snake.svg)
+ ## Bem-vindo(a) ao meu perfil 😁
 
-</div>
+**`Desenvolvedora Junior`**
+
+Me chamo Kethely ALves, tenho 22 anos e sou de São Paulo interior. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. Sou apaixonada por tecnologia e amo programação!
+
+ <a href="www.linkedin.com/in/kethelyn-alves-61232b196">
+        <img 
+            alt="Linkedin" 
+            title="Me siga no Linkedin" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
