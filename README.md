@@ -4,7 +4,7 @@
 
 **`Desenvolvedora Junior`**
 
-Me chamo Kethely ALves, tenho 22 anos e sou de São Paulo interior. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. Sou apaixonada por tecnologia e amo programação!
+ Me chamo Kethely Alves, tenho 22 anos e sou de São Paulo interior. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. Sou apaixonada por tecnologia e amo programação!
 
 
 ### 🤖 Linguagens e Tecnologias
